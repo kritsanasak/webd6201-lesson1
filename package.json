@@ -1,0 +1,15 @@
+{
+  "name": "webd6201-lesson1b",
+  "version": "1.0.0",
+  "description": "WEBD6201 - Lesson 1 B example site",
+  "main": "index.js",
+  "repository": "https://github.com/kritsanasak/webd6201-lesson1.git",
+  "author": "Kritsanasak Poungchan <p.kritsanasak@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
